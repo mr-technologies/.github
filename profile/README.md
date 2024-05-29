@@ -4,7 +4,7 @@
 
 ## Reference documentation
 
-* [Technical manual](https://mr-te.ch/iff-sdk-manual-1-7)
+* [Technical manual](https://mr-te.ch/iff-sdk-manual)
 * [C header file](https://github.com/mr-technologies/IFF/blob/main/iff.h)
 
 ## Tutorials
