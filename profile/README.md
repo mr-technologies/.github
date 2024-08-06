@@ -15,7 +15,22 @@
 
 ## Samples
 
+### C API
+
 * [RTSP streaming](https://github.com/mr-technologies/farsight)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebroker)
-* [HTTP control and WebRTC](https://github.com/mr-technologies/crowsnest)
 * [Color profiling](https://github.com/mr-technologies/spectraprofiler)
+
+### HTTP API
+
+* [HTTP control and WebRTC](https://github.com/mr-technologies/crowsnest)
+
+### Python API
+
+* [RTSP streaming](https://github.com/mr-technologies/farsightpy)
+* [OpenCV rendering](https://github.com/mr-technologies/imagebrokerpy)
+
+### C++ API
+
+* [RTSP streaming](https://github.com/mr-technologies/farsightcpp)
+* [OpenCV rendering](https://github.com/mr-technologies/imagebrokercpp)
