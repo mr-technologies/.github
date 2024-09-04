@@ -19,6 +19,7 @@
 
 * [RTSP streaming](https://github.com/mr-technologies/farsight)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebroker)
+* [GStreamer integration](https://github.com/mr-technologies/streamadapter)
 * [Color profiling](https://github.com/mr-technologies/spectraprofiler)
 
 ### HTTP API
