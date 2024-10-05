@@ -12,6 +12,7 @@
 * [Getting started](https://mr-technologies.com/iff-sdk/how-to-use/)
 * [Glass-to-glass latency measurement](https://mr-technologies.com/iff-sdk/latency-mesurement/)
 * [Machine vision camera types overview](https://mr-technologies.com/iff-sdk/cameras/)
+* [Color calibration](https://mr-technologies.com/iff-sdk/color-calibration/)
 
 ## Samples
 
