@@ -22,6 +22,7 @@
 * [OpenCV rendering](https://github.com/mr-technologies/imagebroker)
 * [GStreamer integration](https://github.com/mr-technologies/streamadapter)
 * [Color profiling](https://github.com/mr-technologies/spectraprofiler)
+* [Lens profiling](https://github.com/mr-technologies/lensprofiler)
 
 ### HTTP API
 
