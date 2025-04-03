@@ -20,6 +20,7 @@
 
 * [RTSP streaming](https://github.com/mr-technologies/farsight)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebroker)
+* [Custom filter](https://github.com/mr-technologies/imagefilter)
 * [GStreamer integration](https://github.com/mr-technologies/streamadapter)
 * [Color profiling](https://github.com/mr-technologies/spectraprofiler)
 * [Lens profiling](https://github.com/mr-technologies/lensprofiler)
@@ -32,8 +33,10 @@
 
 * [RTSP streaming](https://github.com/mr-technologies/farsightpy)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebrokerpy)
+* [Custom filter](https://github.com/mr-technologies/imagefilterpy)
 
 ### C++ API
 
 * [RTSP streaming](https://github.com/mr-technologies/farsightcpp)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebrokercpp)
+* [Custom filter](https://github.com/mr-technologies/imagefiltercpp)
