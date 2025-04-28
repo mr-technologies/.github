@@ -34,7 +34,7 @@
 * [RTSP streaming](https://github.com/mr-technologies/farsightpy)
 * [OpenCV rendering](https://github.com/mr-technologies/imagebrokerpy)
 * [Custom filter](https://github.com/mr-technologies/imagefilterpy)
-* [AI/ML detection](https://github.com/mr-technologies/imageaibroker)
+* [AI/ML detection](https://github.com/mr-technologies/imageaibrokerpy)
 
 ### C++ API
 
